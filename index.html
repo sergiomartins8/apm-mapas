@@ -17,7 +17,7 @@
       rel="stylesheet"
     />
     <script>
-      // Same theme choice as the other sites (same origin, same key).
+      // Default to light; only use dark when the user explicitly chose it.
       (function () {
         try {
           var dark = localStorage.getItem("apm-checkouts-theme") === "dark";
@@ -28,43 +28,10 @@
         } catch (e) {}
       })();
     </script>
-    <link rel="stylesheet" crossorigin href="./assets/index-Bi2e3bWE.css">
+    <script type="module" crossorigin src="./assets/index-DNHH65ch.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CFysq2oy.css">
   </head>
   <body>
-    <a class="skip-link" href="#main">Saltar para o conteúdo</a>
-
-    <header class="topbar">
-      <div class="topbar__inner">
-        <div class="brand">
-          <img
-            class="brand__mark"
-            src="./assets/logo-J6ktg5eL.png"
-            alt=""
-            width="40"
-            height="40"
-          />
-          <div>
-            <p class="brand__eyebrow">A Proa do Moliceiro</p>
-            <h1 class="brand__title">Mapas</h1>
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <main id="main" class="page" tabindex="-1">
-      <section class="doc">
-        <p class="doc__lead">
-          Mapas e localizações de todas as propriedades, por zona. Cada edifício
-          tem a morada e a rota no Google Maps.
-        </p>
-        <a class="doc__open" href="./localizacoes.pdf">Abrir PDF</a>
-      </section>
-    </main>
-
-    <footer class="foot">
-      <p>
-        Gerado a partir de <code>resources/scripts/build_localizacoes.py</code>.
-      </p>
-    </footer>
+    <div id="app"></div>
   </body>
 </html>

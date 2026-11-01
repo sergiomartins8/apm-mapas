@@ -1,0 +1,1085 @@
+{
+ "generated_at": "2026-11-01T18:32:12+00:00",
+ "counts": {
+  "buildings": 20,
+  "units": 34,
+  "zones": 6
+ },
+ "card_map": [
+  220,
+  78
+ ],
+ "overview": {
+  "image": "img/geral.jpg",
+  "width": 242,
+  "height": 210,
+  "items": [
+   {
+    "kind": "zone",
+    "label": "Centro histórico",
+    "badge": null,
+    "href": "#zona-0",
+    "anchor": [
+     197.4,
+     76.9
+    ],
+    "rect": [
+     97.6,
+     78.5,
+     184.0,
+     95.5
+    ]
+   },
+   {
+    "kind": "zone",
+    "label": "Alboi",
+    "badge": null,
+    "href": "#zona-1",
+    "anchor": [
+     191.9,
+     88.0
+    ],
+    "rect": [
+     140.6,
+     103.8,
+     179.2,
+     120.8
+    ]
+   },
+   {
+    "kind": "zone",
+    "label": "Teatro",
+    "badge": null,
+    "href": "#zona-2",
+    "anchor": [
+     201.1,
+     89.0
+    ],
+    "rect": [
+     192.1,
+     99.5,
+     236.3,
+     116.5
+    ]
+   },
+   {
+    "kind": "zone",
+    "label": "Avenida e Estação",
+    "badge": null,
+    "href": "#zona-3",
+    "anchor": [
+     220.3,
+     82.3
+    ],
+    "rect": [
+     119.7,
+     49.5,
+     216.0,
+     66.5
+    ]
+   },
+   {
+    "kind": "zone",
+    "label": "Barra",
+    "badge": null,
+    "href": "#zona-4",
+    "anchor": [
+     40.1,
+     82.7
+    ],
+    "rect": [
+     20.1,
+     59.7,
+     60.0,
+     76.7
+    ]
+   },
+   {
+    "kind": "zone",
+    "label": "Costa Nova",
+    "badge": null,
+    "href": "#zona-5",
+    "anchor": [
+     21.7,
+     133.1
+    ],
+    "rect": [
+     27.7,
+     124.6,
+     93.2,
+     141.6
+    ]
+   }
+  ],
+  "scale": {
+   "box": [
+    7,
+    186,
+    89.8,
+    203
+   ],
+   "bar": 44.0,
+   "text": "2 km"
+  },
+  "attribution": [
+   126.6,
+   192,
+   235,
+   203
+  ],
+  "north": [
+   215,
+   7,
+   235,
+   34
+  ]
+ },
+ "zones": [
+  {
+   "key": "zona-0",
+   "title": "Aveiro · Centro histórico",
+   "sub": "7 edifícios · 13 unidades",
+   "map": {
+    "image": "img/zona-0.jpg",
+    "width": 242,
+    "height": 320,
+    "items": [
+     {
+      "kind": "rental",
+      "label": "Beira Ria",
+      "badge": "1",
+      "href": "#b1",
+      "anchor": [
+       76.7,
+       164.5
+      ],
+      "rect": [
+       6.7,
+       137.3,
+       73.8,
+       154.3
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Ria Laço F",
+      "badge": "2",
+      "href": "#b2",
+      "anchor": [
+       76.7,
+       160.9
+      ],
+      "rect": [
+       58.9,
+       171.4,
+       131.5,
+       188.4
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Canal",
+      "badge": "3",
+      "href": "#b3",
+      "anchor": [
+       84.3,
+       152.2
+      ],
+      "rect": [
+       58.0,
+       117.2,
+       110.7,
+       134.2
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Tomasias 23 A",
+      "badge": "4",
+      "href": "#b4",
+      "anchor": [
+       88.6,
+       159.8
+      ],
+      "rect": [
+       94.6,
+       151.3,
+       184.7,
+       168.3
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Ruela 96",
+      "badge": "5",
+      "href": "#b5",
+      "anchor": [
+       137.5,
+       141.7
+      ],
+      "rect": [
+       146.1,
+       125.3,
+       212.0,
+       142.3
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Gran Ria E",
+      "badge": "6",
+      "href": "#b6",
+      "anchor": [
+       142.1,
+       115.6
+      ],
+      "rect": [
+       47.5,
+       93.9,
+       120.8,
+       110.9
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "GreenView",
+      "badge": "7",
+      "href": "#b7",
+      "anchor": [
+       165.3,
+       101.4
+      ],
+      "rect": [
+       127.2,
+       78.4,
+       203.5,
+       95.4
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Mercado do Peixe",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       96.2,
+       218.6
+      ],
+      "rect": [
+       102.2,
+       210.1,
+       196.6,
+       227.1
+      ]
+     }
+    ],
+    "scale": {
+     "box": [
+      7,
+      296,
+      114.5,
+      313
+     ],
+     "bar": 63.7,
+     "text": "200 m"
+    },
+    "attribution": [
+     126.6,
+     302,
+     235,
+     313
+    ],
+    "north": [
+     215,
+     7,
+     235,
+     34
+    ]
+   },
+   "buildings": [
+    {
+     "key": "b1",
+     "n": 1,
+     "name": "Beira Ria",
+     "units": [
+      "Beira Ria 1",
+      "Beira Ria 2",
+      "Beira Ria Loft"
+     ],
+     "address": "Cais dos Botirões 32",
+     "locality": "3800-181 Aveiro",
+     "near": "A 200 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644001,-8.656059",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644001,-8.656059&travelmode=driving",
+     "image": "img/b1.jpg"
+    },
+    {
+     "key": "b2",
+     "n": 2,
+     "name": "Ria Laço F",
+     "units": [],
+     "address": "Cais dos Botirões 33",
+     "locality": "3800-350 Aveiro",
+     "near": "A 200 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644103,-8.656057",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644103,-8.656057&travelmode=driving",
+     "image": "img/b2.jpg"
+    },
+    {
+     "key": "b3",
+     "n": 3,
+     "name": "Canal",
+     "units": [
+      "Canal G",
+      "Canal I",
+      "Canal K",
+      "Canal L"
+     ],
+     "address": "Antigo Cais de São Roque 10",
+     "locality": "3800-256 Aveiro",
+     "near": "A 200 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644348,-8.655773",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644348,-8.655773&travelmode=driving",
+     "image": "img/b3.jpg"
+    },
+    {
+     "key": "b4",
+     "n": 4,
+     "name": "Tomasias 23 A",
+     "units": [],
+     "address": "Rua das Tomásias 23",
+     "locality": "3800-103 Aveiro",
+     "near": "A 200 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644136,-8.655614",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644136,-8.655614&travelmode=driving",
+     "image": "img/b4.jpg"
+    },
+    {
+     "key": "b5",
+     "n": 5,
+     "name": "Ruela 96",
+     "units": [],
+     "address": "Rua Doutor António Christo 96",
+     "locality": "3800-257 Aveiro",
+     "near": "A 250 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644646,-8.653796",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644646,-8.653796&travelmode=driving",
+     "image": "img/b5.jpg"
+    },
+    {
+     "key": "b6",
+     "n": 6,
+     "name": "Gran Ria E",
+     "units": [],
+     "address": "Rua de São Roque 13",
+     "locality": "3800-257 Aveiro",
+     "near": "A 350 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.645380,-8.653627",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.645380,-8.653627&travelmode=driving",
+     "image": "img/b6.jpg"
+    },
+    {
+     "key": "b7",
+     "n": 7,
+     "name": "GreenView",
+     "units": [
+      "GreenView D",
+      "GreenView F"
+     ],
+     "address": "Rua de São Roque 57",
+     "locality": "3800-257 Aveiro",
+     "near": "A 450 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.645782,-8.652762",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.645782,-8.652762&travelmode=driving",
+     "image": "img/b7.jpg"
+    }
+   ]
+  },
+  {
+   "key": "zona-1",
+   "title": "Aveiro · Alboi",
+   "sub": "1 edifício · 1 unidade",
+   "map": {
+    "image": "img/zona-1.jpg",
+    "width": 242,
+    "height": 250,
+    "items": [
+     {
+      "kind": "rental",
+      "label": "Cais do Sal E",
+      "badge": "8",
+      "href": "#b8",
+      "anchor": [
+       85.9,
+       170.6
+      ],
+      "rect": [
+       44.3,
+       147.6,
+       127.5,
+       164.6
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Mercado do Peixe",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       156.1,
+       79.4
+      ],
+      "rect": [
+       55.6,
+       70.9,
+       150.1,
+       87.9
+      ]
+     }
+    ],
+    "scale": {
+     "box": [
+      7,
+      226,
+      119.9,
+      243
+     ],
+     "bar": 69.1,
+     "text": "200 m"
+    },
+    "attribution": [
+     126.6,
+     232,
+     235,
+     243
+    ],
+    "north": [
+     215,
+     7,
+     235,
+     34
+    ]
+   },
+   "buildings": [
+    {
+     "key": "b8",
+     "n": 8,
+     "name": "Cais do Sal E",
+     "units": [],
+     "address": "Cais do Alboi 18",
+     "locality": "3810-045 Aveiro",
+     "near": "A 350 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.640107,-8.657738",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.640107,-8.657738&travelmode=driving",
+     "image": "img/b8.jpg"
+    }
+   ]
+  },
+  {
+   "key": "zona-2",
+   "title": "Aveiro · Teatro",
+   "sub": "2 edifícios · 3 unidades",
+   "map": {
+    "image": "img/zona-2.jpg",
+    "width": 242,
+    "height": 280,
+    "items": [
+     {
+      "kind": "rental",
+      "label": "Historia",
+      "badge": "9",
+      "href": "#b9",
+      "anchor": [
+       95.1,
+       116.2
+      ],
+      "rect": [
+       27.1,
+       107.7,
+       89.1,
+       124.7
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Gloria",
+      "badge": "10",
+      "href": "#b10",
+      "anchor": [
+       133.2,
+       182.2
+      ],
+      "rect": [
+       139.2,
+       173.7,
+       192.9,
+       190.7
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Rotunda Lourenço Peixinho",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       94.9,
+       97.8
+      ],
+      "rect": [
+       25.7,
+       74.8,
+       164.1,
+       91.8
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Fórum Aveiro",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       147.1,
+       110.7
+      ],
+      "rect": [
+       153.1,
+       102.2,
+       228.7,
+       119.2
+      ]
+     }
+    ],
+    "scale": {
+     "box": [
+      7,
+      256,
+      104.6,
+      273
+     ],
+     "bar": 53.8,
+     "text": "200 m"
+    },
+    "attribution": [
+     126.6,
+     262,
+     235,
+     273
+    ],
+    "north": [
+     215,
+     7,
+     235,
+     34
+    ]
+   },
+   "buildings": [
+    {
+     "key": "b9",
+     "n": 9,
+     "name": "Historia",
+     "units": [],
+     "address": "Rua de Coimbra 17",
+     "locality": "3810-086 Aveiro",
+     "near": "A 70 m da Rotunda Lourenço Peixinho",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.640772,-8.653632",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.640772,-8.653632&travelmode=driving",
+     "image": "img/b9.jpg"
+    },
+    {
+     "key": "b10",
+     "n": 10,
+     "name": "Gloria",
+     "units": [
+      "Gloria 1D",
+      "Gloria 1F"
+     ],
+     "address": "R. dos Combatentes da Grande Guerra 102",
+     "locality": "3810-164 Aveiro",
+     "near": "A 250 m do Fórum Aveiro",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.638568,-8.651957",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.638568,-8.651957&travelmode=driving",
+     "image": "img/b10.jpg"
+    }
+   ]
+  },
+  {
+   "key": "zona-3",
+   "title": "Aveiro · Avenida e Estação",
+   "sub": "7 edifícios · 14 unidades",
+   "map": {
+    "image": "img/zona-3.jpg",
+    "width": 242,
+    "height": 280,
+    "items": [
+     {
+      "kind": "rental",
+      "label": "White 405",
+      "badge": "11",
+      "href": "#b11",
+      "anchor": [
+       11.7,
+       149.9
+      ],
+      "rect": [
+       24.9,
+       171.4,
+       98.6,
+       188.4
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "NB Life V",
+      "badge": "12",
+      "href": "#b12",
+      "anchor": [
+       113.3,
+       113.9
+      ],
+      "rect": [
+       39.1,
+       105.4,
+       107.3,
+       122.4
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "iConik",
+      "badge": "13",
+      "href": "#b13",
+      "anchor": [
+       114.4,
+       142.0
+      ],
+      "rect": [
+       49.7,
+       125.6,
+       105.4,
+       142.6
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Square B",
+      "badge": "14",
+      "href": "#b14",
+      "anchor": [
+       117.3,
+       138.5
+      ],
+      "rect": [
+       53.6,
+       81.5,
+       121.4,
+       98.5
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Blanc 7 2.3",
+      "badge": "15",
+      "href": "#b15",
+      "anchor": [
+       167.8,
+       142.6
+      ],
+      "rect": [
+       154.7,
+       102.2,
+       229.3,
+       119.2
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Blanc 18",
+      "badge": "16",
+      "href": "#b16",
+      "anchor": [
+       171.3,
+       155.4
+      ],
+      "rect": [
+       158.5,
+       171.4,
+       222.5,
+       188.4
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Blanc 28 2.10",
+      "badge": "17",
+      "href": "#b17",
+      "anchor": [
+       173.0,
+       150.6
+      ],
+      "rect": [
+       81.1,
+       149.9,
+       165.1,
+       166.9
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Estação",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       149.4,
+       125.4
+      ],
+      "rect": [
+       146.9,
+       77.6,
+       197.3,
+       94.6
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Fórum Aveiro",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       10.9,
+       166.1
+      ],
+      "rect": [
+       9.0,
+       217.2,
+       84.7,
+       234.2
+      ]
+     }
+    ],
+    "scale": {
+     "box": [
+      7,
+      256,
+      126.4,
+      273
+     ],
+     "bar": 75.6,
+     "text": "500 m"
+    },
+    "attribution": [
+     126.6,
+     262,
+     235,
+     273
+    ],
+    "north": [
+     215,
+     7,
+     235,
+     34
+    ]
+   },
+   "buildings": [
+    {
+     "key": "b11",
+     "n": 11,
+     "name": "White 405",
+     "units": [],
+     "address": "Avenida Doutor Lourenço Peixinho 48",
+     "locality": "3800-159 Aveiro",
+     "near": "A 100 m do Fórum Aveiro",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641919,-8.651286",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641919,-8.651286&travelmode=driving",
+     "image": "img/b11.jpg"
+    },
+    {
+     "key": "b12",
+     "n": 12,
+     "name": "NB Life V",
+     "units": [],
+     "address": "Rua Luís Gomes de Carvalho, 13",
+     "locality": "3800-211 Aveiro",
+     "near": "A 250 m da Estação de comboios",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644055,-8.643330",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644055,-8.643330&travelmode=driving",
+     "image": "img/b12.jpg"
+    },
+    {
+     "key": "b13",
+     "n": 13,
+     "name": "iConik",
+     "units": [
+      "iConik 0.1",
+      "iConik 1.1",
+      "iConik 1.2",
+      "iConik 2.1",
+      "iConik 2.2",
+      "iConik 3.1"
+     ],
+     "address": "Rua do Senhor dos Aflitos 19",
+     "locality": "3800-260 Aveiro",
+     "near": "A 250 m da Estação de comboios",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642389,-8.643247",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642389,-8.643247&travelmode=driving",
+     "image": "img/b13.jpg"
+    },
+    {
+     "key": "b14",
+     "n": 14,
+     "name": "Square B",
+     "units": [],
+     "address": "Travessa da Rua Comandante Rocha e Cunha 15, 0 B",
+     "locality": "3800-134 Aveiro",
+     "near": "A 250 m da Estação de comboios",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642594,-8.643021",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642594,-8.643021&travelmode=driving",
+     "image": "img/b14.jpg"
+    },
+    {
+     "key": "b15",
+     "n": 15,
+     "name": "Blanc 7 2.3",
+     "units": [],
+     "address": "0.7 A Rua Zé Augusto 7",
+     "locality": "3800-111 Aveiro",
+     "near": "A 150 m da Estação de comboios",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642354,-8.639071",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642354,-8.639071&travelmode=driving",
+     "image": "img/b15.jpg"
+    },
+    {
+     "key": "b16",
+     "n": 16,
+     "name": "Blanc 18",
+     "units": [
+      "Blanc 18 1.6 A",
+      "Blanc 18 1.7 A",
+      "Blanc 18 3.6"
+     ],
+     "address": "Rua General José Domingues Peres 18",
+     "locality": "3800-404 Aveiro",
+     "near": "A 250 m da Estação de comboios",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641591,-8.638790",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641591,-8.638790&travelmode=driving",
+     "image": "img/b16.jpg"
+    },
+    {
+     "key": "b17",
+     "n": 17,
+     "name": "Blanc 28 2.10",
+     "units": [],
+     "address": "Rua General José Domingues Peres 28",
+     "locality": "3800-404 Aveiro",
+     "near": "A 250 m da Estação de comboios",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641876,-8.638661",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641876,-8.638661&travelmode=driving",
+     "image": "img/b17.jpg"
+    }
+   ]
+  },
+  {
+   "key": "zona-4",
+   "title": "Barra",
+   "sub": "2 edifícios · 2 unidades",
+   "map": {
+    "image": "img/zona-4.jpg",
+    "width": 242,
+    "height": 250,
+    "items": [
+     {
+      "kind": "rental",
+      "label": "DOCA 2 A 0.6",
+      "badge": "18",
+      "href": "#b18",
+      "anchor": [
+       189.7,
+       64.6
+      ],
+      "rect": [
+       97.6,
+       56.1,
+       183.7,
+       73.1
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "DOCA 1 A 1.2",
+      "badge": "19",
+      "href": "#b19",
+      "anchor": [
+       204.0,
+       59.8
+      ],
+      "rect": [
+       121.7,
+       32.6,
+       203.2,
+       49.6
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Farol",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       53.2,
+       49.7
+      ],
+      "rect": [
+       9.1,
+       41.2,
+       47.2,
+       58.2
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Praia da Barra",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       38.0,
+       200.3
+      ],
+      "rect": [
+       44.0,
+       191.8,
+       122.1,
+       208.8
+      ]
+     }
+    ],
+    "scale": {
+     "box": [
+      7,
+      226,
+      91.1,
+      243
+     ],
+     "bar": 40.3,
+     "text": "200 m"
+    },
+    "attribution": [
+     126.6,
+     232,
+     235,
+     243
+    ],
+    "north": [
+     215,
+     7,
+     235,
+     34
+    ]
+   },
+   "buildings": [
+    {
+     "key": "b18",
+     "n": 18,
+     "name": "DOCA 2 A 0.6",
+     "units": [],
+     "address": "Rua Engenheiro Paulo Benjamim Cabral 2",
+     "locality": "3830-751 Gafanha da Nazaré",
+     "near": "A 700 m do Farol da Barra",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642162,-8.739868",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642162,-8.739868&travelmode=driving",
+     "image": "img/b18.jpg"
+    },
+    {
+     "key": "b19",
+     "n": 19,
+     "name": "DOCA 1 A 1.2",
+     "units": [],
+     "address": "Rua Engenheiro Paulo Benjamim Cabral 1",
+     "locality": "3830-751 Gafanha da Nazaré",
+     "near": "A 750 m do Farol da Barra",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642376,-8.739030",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642376,-8.739030&travelmode=driving",
+     "image": "img/b19.jpg"
+    }
+   ]
+  },
+  {
+   "key": "zona-5",
+   "title": "Costa Nova",
+   "sub": "1 edifício · 1 unidade",
+   "map": {
+    "image": "img/zona-5.jpg",
+    "width": 242,
+    "height": 250,
+    "items": [
+     {
+      "kind": "rental",
+      "label": "Vela Marina FF",
+      "badge": "20",
+      "href": "#b20",
+      "anchor": [
+       158.4,
+       101.2
+      ],
+      "rect": [
+       59.5,
+       92.7,
+       152.4,
+       109.7
+      ]
+     },
+     {
+      "kind": "ref",
+      "label": "Praia da Costa Nova",
+      "badge": null,
+      "href": null,
+      "anchor": [
+       83.6,
+       148.8
+      ],
+      "rect": [
+       31.7,
+       125.8,
+       135.4,
+       142.8
+      ]
+     }
+    ],
+    "scale": {
+     "box": [
+      7,
+      226,
+      104.6,
+      243
+     ],
+     "bar": 53.8,
+     "text": "200 m"
+    },
+    "attribution": [
+     126.6,
+     232,
+     235,
+     243
+    ],
+    "north": [
+     215,
+     7,
+     235,
+     34
+    ]
+   },
+   "buildings": [
+    {
+     "key": "b20",
+     "n": 20,
+     "name": "Vela Marina FF",
+     "units": [],
+     "address": "Avenida José Estevão 62",
+     "locality": "3830-456 Gafanha da Encarnação",
+     "near": "A 350 m da Praia da Costa Nova",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.621664,-8.749330",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.621664,-8.749330&travelmode=driving",
+     "image": "img/b20.jpg"
+    }
+   ]
+  }
+ ]
+}
