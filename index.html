@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="pt" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta
+      name="description"
+      content="Mapas e localizações das propriedades, por zona — A Proa do Moliceiro."
+    />
+    <title>Mapas — A Proa do Moliceiro</title>
+    <link rel="icon" type="image/png" href="./assets/logo-J6ktg5eL.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      // Same theme choice as the other sites (same origin, same key).
+      (function () {
+        try {
+          var dark = localStorage.getItem("apm-checkouts-theme") === "dark";
+          document.documentElement.setAttribute(
+            "data-theme",
+            dark ? "dark" : "light",
+          );
+        } catch (e) {}
+      })();
+    </script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Bi2e3bWE.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Saltar para o conteúdo</a>
+
+    <header class="topbar">
+      <div class="topbar__inner">
+        <div class="brand">
+          <img
+            class="brand__mark"
+            src="./assets/logo-J6ktg5eL.png"
+            alt=""
+            width="40"
+            height="40"
+          />
+          <div>
+            <p class="brand__eyebrow">A Proa do Moliceiro</p>
+            <h1 class="brand__title">Mapas</h1>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main id="main" class="page" tabindex="-1">
+      <section class="doc">
+        <p class="doc__lead">
+          Mapas e localizações de todas as propriedades, por zona. Cada edifício
+          tem a morada e a rota no Google Maps.
+        </p>
+        <a class="doc__open" href="./localizacoes.pdf">Abrir PDF</a>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <p>
+        Gerado a partir de <code>resources/scripts/build_localizacoes.py</code>.
+      </p>
+    </footer>
+  </body>
+</html>
