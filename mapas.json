@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T18:32:12+00:00",
+ "generated_at": "2026-11-24T20:10:03+00:00",
  "counts": {
-  "buildings": 20,
-  "units": 34,
+  "buildings": 21,
+  "units": 35,
   "zones": 6
  },
  "card_map": [
@@ -36,8 +36,8 @@
     "badge": null,
     "href": "#zona-1",
     "anchor": [
-     191.9,
-     88.0
+     192.0,
+     87.9
     ],
     "rect": [
      140.6,
@@ -398,7 +398,7 @@
   {
    "key": "zona-1",
    "title": "Aveiro · Alboi",
-   "sub": "1 edifício · 1 unidade",
+   "sub": "2 edifícios · 2 unidades",
    "map": {
     "image": "img/zona-1.jpg",
     "width": 242,
@@ -415,9 +415,25 @@
       ],
       "rect": [
        44.3,
-       147.6,
+       176.6,
        127.5,
-       164.6
+       193.6
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Cais do Sal J",
+      "badge": "9",
+      "href": "#b9",
+      "anchor": [
+       86.6,
+       170.2
+      ],
+      "rect": [
+       45.6,
+       147.2,
+       127.5,
+       164.2
       ]
      },
      {
@@ -472,6 +488,18 @@
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.640107,-8.657738",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.640107,-8.657738&travelmode=driving",
      "image": "img/b8.jpg"
+    },
+    {
+     "key": "b9",
+     "n": 9,
+     "name": "Cais do Sal J",
+     "units": [],
+     "address": "Cais do Alboi 18",
+     "locality": "3810-164 Aveiro",
+     "near": "A 350 m do Mercado do Peixe",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.640118,-8.657715",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.640118,-8.657715&travelmode=driving",
+     "image": "img/b9.jpg"
     }
    ]
   },
@@ -487,8 +515,8 @@
      {
       "kind": "rental",
       "label": "Historia",
-      "badge": "9",
-      "href": "#b9",
+      "badge": "10",
+      "href": "#b10",
       "anchor": [
        95.1,
        116.2
@@ -503,8 +531,8 @@
      {
       "kind": "rental",
       "label": "Gloria",
-      "badge": "10",
-      "href": "#b10",
+      "badge": "11",
+      "href": "#b11",
       "anchor": [
        133.2,
        182.2
@@ -574,8 +602,8 @@
    },
    "buildings": [
     {
-     "key": "b9",
-     "n": 9,
+     "key": "b10",
+     "n": 10,
      "name": "Historia",
      "units": [],
      "address": "Rua de Coimbra 17",
@@ -583,11 +611,11 @@
      "near": "A 70 m da Rotunda Lourenço Peixinho",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.640772,-8.653632",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.640772,-8.653632&travelmode=driving",
-     "image": "img/b9.jpg"
+     "image": "img/b10.jpg"
     },
     {
-     "key": "b10",
-     "n": 10,
+     "key": "b11",
+     "n": 11,
      "name": "Gloria",
      "units": [
       "Gloria 1D",
@@ -598,7 +626,7 @@
      "near": "A 250 m do Fórum Aveiro",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.638568,-8.651957",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.638568,-8.651957&travelmode=driving",
-     "image": "img/b10.jpg"
+     "image": "img/b11.jpg"
     }
    ]
   },
@@ -614,8 +642,8 @@
      {
       "kind": "rental",
       "label": "White 405",
-      "badge": "11",
-      "href": "#b11",
+      "badge": "12",
+      "href": "#b12",
       "anchor": [
        11.7,
        149.9
@@ -630,8 +658,8 @@
      {
       "kind": "rental",
       "label": "NB Life V",
-      "badge": "12",
-      "href": "#b12",
+      "badge": "13",
+      "href": "#b13",
       "anchor": [
        113.3,
        113.9
@@ -646,8 +674,8 @@
      {
       "kind": "rental",
       "label": "iConik",
-      "badge": "13",
-      "href": "#b13",
+      "badge": "14",
+      "href": "#b14",
       "anchor": [
        114.4,
        142.0
@@ -662,8 +690,8 @@
      {
       "kind": "rental",
       "label": "Square B",
-      "badge": "14",
-      "href": "#b14",
+      "badge": "15",
+      "href": "#b15",
       "anchor": [
        117.3,
        138.5
@@ -678,8 +706,8 @@
      {
       "kind": "rental",
       "label": "Blanc 7 2.3",
-      "badge": "15",
-      "href": "#b15",
+      "badge": "16",
+      "href": "#b16",
       "anchor": [
        167.8,
        142.6
@@ -694,8 +722,8 @@
      {
       "kind": "rental",
       "label": "Blanc 18",
-      "badge": "16",
-      "href": "#b16",
+      "badge": "17",
+      "href": "#b17",
       "anchor": [
        171.3,
        155.4
@@ -710,8 +738,8 @@
      {
       "kind": "rental",
       "label": "Blanc 28 2.10",
-      "badge": "17",
-      "href": "#b17",
+      "badge": "18",
+      "href": "#b18",
       "anchor": [
        173.0,
        150.6
@@ -781,8 +809,8 @@
    },
    "buildings": [
     {
-     "key": "b11",
-     "n": 11,
+     "key": "b12",
+     "n": 12,
      "name": "White 405",
      "units": [],
      "address": "Avenida Doutor Lourenço Peixinho 48",
@@ -790,11 +818,11 @@
      "near": "A 100 m do Fórum Aveiro",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641919,-8.651286",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641919,-8.651286&travelmode=driving",
-     "image": "img/b11.jpg"
+     "image": "img/b12.jpg"
     },
     {
-     "key": "b12",
-     "n": 12,
+     "key": "b13",
+     "n": 13,
      "name": "NB Life V",
      "units": [],
      "address": "Rua Luís Gomes de Carvalho, 13",
@@ -802,11 +830,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644055,-8.643330",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644055,-8.643330&travelmode=driving",
-     "image": "img/b12.jpg"
+     "image": "img/b13.jpg"
     },
     {
-     "key": "b13",
-     "n": 13,
+     "key": "b14",
+     "n": 14,
      "name": "iConik",
      "units": [
       "iConik 0.1",
@@ -821,11 +849,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642389,-8.643247",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642389,-8.643247&travelmode=driving",
-     "image": "img/b13.jpg"
+     "image": "img/b14.jpg"
     },
     {
-     "key": "b14",
-     "n": 14,
+     "key": "b15",
+     "n": 15,
      "name": "Square B",
      "units": [],
      "address": "Travessa da Rua Comandante Rocha e Cunha 15, 0 B",
@@ -833,11 +861,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642594,-8.643021",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642594,-8.643021&travelmode=driving",
-     "image": "img/b14.jpg"
+     "image": "img/b15.jpg"
     },
     {
-     "key": "b15",
-     "n": 15,
+     "key": "b16",
+     "n": 16,
      "name": "Blanc 7 2.3",
      "units": [],
      "address": "0.7 A Rua Zé Augusto 7",
@@ -845,11 +873,11 @@
      "near": "A 150 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642354,-8.639071",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642354,-8.639071&travelmode=driving",
-     "image": "img/b15.jpg"
+     "image": "img/b16.jpg"
     },
     {
-     "key": "b16",
-     "n": 16,
+     "key": "b17",
+     "n": 17,
      "name": "Blanc 18",
      "units": [
       "Blanc 18 1.6 A",
@@ -861,11 +889,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641591,-8.638790",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641591,-8.638790&travelmode=driving",
-     "image": "img/b16.jpg"
+     "image": "img/b17.jpg"
     },
     {
-     "key": "b17",
-     "n": 17,
+     "key": "b18",
+     "n": 18,
      "name": "Blanc 28 2.10",
      "units": [],
      "address": "Rua General José Domingues Peres 28",
@@ -873,7 +901,7 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641876,-8.638661",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641876,-8.638661&travelmode=driving",
-     "image": "img/b17.jpg"
+     "image": "img/b18.jpg"
     }
    ]
   },
@@ -889,8 +917,8 @@
      {
       "kind": "rental",
       "label": "DOCA 2 A 0.6",
-      "badge": "18",
-      "href": "#b18",
+      "badge": "19",
+      "href": "#b19",
       "anchor": [
        189.7,
        64.6
@@ -905,8 +933,8 @@
      {
       "kind": "rental",
       "label": "DOCA 1 A 1.2",
-      "badge": "19",
-      "href": "#b19",
+      "badge": "20",
+      "href": "#b20",
       "anchor": [
        204.0,
        59.8
@@ -976,8 +1004,8 @@
    },
    "buildings": [
     {
-     "key": "b18",
-     "n": 18,
+     "key": "b19",
+     "n": 19,
      "name": "DOCA 2 A 0.6",
      "units": [],
      "address": "Rua Engenheiro Paulo Benjamim Cabral 2",
@@ -985,11 +1013,11 @@
      "near": "A 700 m do Farol da Barra",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642162,-8.739868",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642162,-8.739868&travelmode=driving",
-     "image": "img/b18.jpg"
+     "image": "img/b19.jpg"
     },
     {
-     "key": "b19",
-     "n": 19,
+     "key": "b20",
+     "n": 20,
      "name": "DOCA 1 A 1.2",
      "units": [],
      "address": "Rua Engenheiro Paulo Benjamim Cabral 1",
@@ -997,7 +1025,7 @@
      "near": "A 750 m do Farol da Barra",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642376,-8.739030",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642376,-8.739030&travelmode=driving",
-     "image": "img/b19.jpg"
+     "image": "img/b20.jpg"
     }
    ]
   },
@@ -1013,8 +1041,8 @@
      {
       "kind": "rental",
       "label": "Vela Marina FF",
-      "badge": "20",
-      "href": "#b20",
+      "badge": "21",
+      "href": "#b21",
       "anchor": [
        158.4,
        101.2
@@ -1068,8 +1096,8 @@
    },
    "buildings": [
     {
-     "key": "b20",
-     "n": 20,
+     "key": "b21",
+     "n": 21,
      "name": "Vela Marina FF",
      "units": [],
      "address": "Avenida José Estevão 62",
@@ -1077,7 +1105,7 @@
      "near": "A 350 m da Praia da Costa Nova",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.621664,-8.749330",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.621664,-8.749330&travelmode=driving",
-     "image": "img/b20.jpg"
+     "image": "img/b21.jpg"
     }
    ]
   }
