@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T20:10:03+00:00",
+ "generated_at": "2026-11-28T10:12:31+00:00",
  "counts": {
-  "buildings": 21,
-  "units": 35,
+  "buildings": 22,
+  "units": 36,
   "zones": 6
  },
  "card_map": [
@@ -20,13 +20,13 @@
     "badge": null,
     "href": "#zona-0",
     "anchor": [
-     197.4,
+     197.9,
      76.9
     ],
     "rect": [
-     97.6,
+     98.2,
      78.5,
-     184.0,
+     184.6,
      95.5
     ]
    },
@@ -36,13 +36,13 @@
     "badge": null,
     "href": "#zona-1",
     "anchor": [
-     192.0,
+     192.5,
      87.9
     ],
     "rect": [
-     140.6,
+     141.2,
      103.8,
-     179.2,
+     179.8,
      120.8
     ]
    },
@@ -52,13 +52,13 @@
     "badge": null,
     "href": "#zona-2",
     "anchor": [
-     201.1,
+     201.7,
      89.0
     ],
     "rect": [
-     192.1,
+     192.6,
      99.5,
-     236.3,
+     236.8,
      116.5
     ]
    },
@@ -68,14 +68,14 @@
     "badge": null,
     "href": "#zona-3",
     "anchor": [
-     220.3,
-     82.3
+     219.7,
+     80.6
     ],
     "rect": [
-     119.7,
-     49.5,
-     216.0,
-     66.5
+     124.9,
+     53.4,
+     221.1,
+     70.4
     ]
    },
    {
@@ -84,14 +84,14 @@
     "badge": null,
     "href": "#zona-4",
     "anchor": [
-     40.1,
+     40.6,
      82.7
     ],
     "rect": [
-     20.1,
-     59.7,
-     60.0,
-     76.7
+     46.6,
+     74.2,
+     86.5,
+     91.2
     ]
    },
    {
@@ -100,13 +100,13 @@
     "badge": null,
     "href": "#zona-5",
     "anchor": [
-     21.7,
+     22.3,
      133.1
     ],
     "rect": [
-     27.7,
+     28.3,
      124.6,
-     93.2,
+     93.8,
      141.6
     ]
    }
@@ -633,7 +633,7 @@
   {
    "key": "zona-3",
    "title": "Aveiro · Avenida e Estação",
-   "sub": "7 edifícios · 14 unidades",
+   "sub": "8 edifícios · 15 unidades",
    "map": {
     "image": "img/zona-3.jpg",
     "width": 242,
@@ -646,109 +646,125 @@
       "href": "#b12",
       "anchor": [
        11.7,
-       149.9
+       183.2
       ],
       "rect": [
-       24.9,
-       171.4,
-       98.6,
-       188.4
-      ]
-     },
-     {
-      "kind": "rental",
-      "label": "NB Life V",
-      "badge": "13",
-      "href": "#b13",
-      "anchor": [
-       113.3,
-       113.9
-      ],
-      "rect": [
-       39.1,
-       105.4,
-       107.3,
-       122.4
-      ]
-     },
-     {
-      "kind": "rental",
-      "label": "iConik",
-      "badge": "14",
-      "href": "#b14",
-      "anchor": [
-       114.4,
-       142.0
-      ],
-      "rect": [
-       49.7,
-       125.6,
-       105.4,
-       142.6
-      ]
-     },
-     {
-      "kind": "rental",
-      "label": "Square B",
-      "badge": "15",
-      "href": "#b15",
-      "anchor": [
-       117.3,
-       138.5
-      ],
-      "rect": [
-       53.6,
-       81.5,
-       121.4,
-       98.5
-      ]
-     },
-     {
-      "kind": "rental",
-      "label": "Blanc 7 2.3",
-      "badge": "16",
-      "href": "#b16",
-      "anchor": [
-       167.8,
-       142.6
-      ],
-      "rect": [
-       154.7,
+       15.7,
        102.2,
-       229.3,
+       89.4,
        119.2
       ]
      },
      {
       "kind": "rental",
-      "label": "Blanc 18",
+      "label": "Barroka AQ",
+      "badge": "13",
+      "href": "#b13",
+      "anchor": [
+       64.9,
+       80.6
+      ],
+      "rect": [
+       70.9,
+       72.1,
+       149.6,
+       89.1
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "NB Life V",
+      "badge": "14",
+      "href": "#b14",
+      "anchor": [
+       113.3,
+       147.3
+      ],
+      "rect": [
+       105.3,
+       99.5,
+       173.5,
+       116.5
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "iConik",
+      "badge": "15",
+      "href": "#b15",
+      "anchor": [
+       114.4,
+       175.3
+      ],
+      "rect": [
+       52.7,
+       166.8,
+       108.4,
+       183.8
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Square B",
+      "badge": "16",
+      "href": "#b16",
+      "anchor": [
+       117.3,
+       171.9
+      ],
+      "rect": [
+       35.4,
+       133.3,
+       103.2,
+       150.3
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Blanc 7 2.3",
       "badge": "17",
       "href": "#b17",
       "anchor": [
-       171.3,
-       155.4
+       167.7,
+       175.9
       ],
       "rect": [
-       158.5,
-       171.4,
-       222.5,
-       188.4
+       85.6,
+       191.8,
+       160.3,
+       208.8
+      ]
+     },
+     {
+      "kind": "rental",
+      "label": "Blanc 18",
+      "badge": "18",
+      "href": "#b18",
+      "anchor": [
+       171.3,
+       188.7
+      ],
+      "rect": [
+       161.5,
+       148.4,
+       225.5,
+       165.4
       ]
      },
      {
       "kind": "rental",
       "label": "Blanc 28 2.10",
-      "badge": "18",
-      "href": "#b18",
+      "badge": "19",
+      "href": "#b19",
       "anchor": [
        173.0,
-       150.6
+       183.9
       ],
       "rect": [
-       81.1,
-       149.9,
-       165.1,
-       166.9
+       101.9,
+       214.7,
+       185.9,
+       231.7
       ]
      },
      {
@@ -758,13 +774,13 @@
       "href": null,
       "anchor": [
        149.4,
-       125.4
+       158.7
       ],
       "rect": [
-       146.9,
-       77.6,
-       197.3,
-       94.6
+       140.7,
+       125.7,
+       191.1,
+       142.7
       ]
      },
      {
@@ -774,13 +790,13 @@
       "href": null,
       "anchor": [
        10.9,
-       166.1
+       199.4
       ],
       "rect": [
-       9.0,
-       217.2,
-       84.7,
-       234.2
+       18.2,
+       215.3,
+       93.9,
+       232.3
       ]
      }
     ],
@@ -823,6 +839,18 @@
     {
      "key": "b13",
      "n": 13,
+     "name": "Barroka AQ",
+     "units": [],
+     "address": "Rua António da Rocha Madail 40",
+     "locality": "3800-351 Aveiro",
+     "near": "A 750 m da Estação de comboios",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=40.648015,-8.647121",
+     "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.648015,-8.647121&travelmode=driving",
+     "image": "img/b13.jpg"
+    },
+    {
+     "key": "b14",
+     "n": 14,
      "name": "NB Life V",
      "units": [],
      "address": "Rua Luís Gomes de Carvalho, 13",
@@ -830,11 +858,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.644055,-8.643330",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.644055,-8.643330&travelmode=driving",
-     "image": "img/b13.jpg"
+     "image": "img/b14.jpg"
     },
     {
-     "key": "b14",
-     "n": 14,
+     "key": "b15",
+     "n": 15,
      "name": "iConik",
      "units": [
       "iConik 0.1",
@@ -849,11 +877,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642389,-8.643247",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642389,-8.643247&travelmode=driving",
-     "image": "img/b14.jpg"
+     "image": "img/b15.jpg"
     },
     {
-     "key": "b15",
-     "n": 15,
+     "key": "b16",
+     "n": 16,
      "name": "Square B",
      "units": [],
      "address": "Travessa da Rua Comandante Rocha e Cunha 15, 0 B",
@@ -861,11 +889,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642594,-8.643021",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642594,-8.643021&travelmode=driving",
-     "image": "img/b15.jpg"
+     "image": "img/b16.jpg"
     },
     {
-     "key": "b16",
-     "n": 16,
+     "key": "b17",
+     "n": 17,
      "name": "Blanc 7 2.3",
      "units": [],
      "address": "0.7 A Rua Zé Augusto 7",
@@ -873,11 +901,11 @@
      "near": "A 150 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642354,-8.639071",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642354,-8.639071&travelmode=driving",
-     "image": "img/b16.jpg"
+     "image": "img/b17.jpg"
     },
     {
-     "key": "b17",
-     "n": 17,
+     "key": "b18",
+     "n": 18,
      "name": "Blanc 18",
      "units": [
       "Blanc 18 1.6 A",
@@ -889,11 +917,11 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641591,-8.638790",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641591,-8.638790&travelmode=driving",
-     "image": "img/b17.jpg"
+     "image": "img/b18.jpg"
     },
     {
-     "key": "b18",
-     "n": 18,
+     "key": "b19",
+     "n": 19,
      "name": "Blanc 28 2.10",
      "units": [],
      "address": "Rua General José Domingues Peres 28",
@@ -901,7 +929,7 @@
      "near": "A 250 m da Estação de comboios",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.641876,-8.638661",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.641876,-8.638661&travelmode=driving",
-     "image": "img/b18.jpg"
+     "image": "img/b19.jpg"
     }
    ]
   },
@@ -917,8 +945,8 @@
      {
       "kind": "rental",
       "label": "DOCA 2 A 0.6",
-      "badge": "19",
-      "href": "#b19",
+      "badge": "20",
+      "href": "#b20",
       "anchor": [
        189.7,
        64.6
@@ -933,8 +961,8 @@
      {
       "kind": "rental",
       "label": "DOCA 1 A 1.2",
-      "badge": "20",
-      "href": "#b20",
+      "badge": "21",
+      "href": "#b21",
       "anchor": [
        204.0,
        59.8
@@ -1004,8 +1032,8 @@
    },
    "buildings": [
     {
-     "key": "b19",
-     "n": 19,
+     "key": "b20",
+     "n": 20,
      "name": "DOCA 2 A 0.6",
      "units": [],
      "address": "Rua Engenheiro Paulo Benjamim Cabral 2",
@@ -1013,11 +1041,11 @@
      "near": "A 700 m do Farol da Barra",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642162,-8.739868",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642162,-8.739868&travelmode=driving",
-     "image": "img/b19.jpg"
+     "image": "img/b20.jpg"
     },
     {
-     "key": "b20",
-     "n": 20,
+     "key": "b21",
+     "n": 21,
      "name": "DOCA 1 A 1.2",
      "units": [],
      "address": "Rua Engenheiro Paulo Benjamim Cabral 1",
@@ -1025,7 +1053,7 @@
      "near": "A 750 m do Farol da Barra",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.642376,-8.739030",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.642376,-8.739030&travelmode=driving",
-     "image": "img/b20.jpg"
+     "image": "img/b21.jpg"
     }
    ]
   },
@@ -1041,8 +1069,8 @@
      {
       "kind": "rental",
       "label": "Vela Marina FF",
-      "badge": "21",
-      "href": "#b21",
+      "badge": "22",
+      "href": "#b22",
       "anchor": [
        158.4,
        101.2
@@ -1096,8 +1124,8 @@
    },
    "buildings": [
     {
-     "key": "b21",
-     "n": 21,
+     "key": "b22",
+     "n": 22,
      "name": "Vela Marina FF",
      "units": [],
      "address": "Avenida José Estevão 62",
@@ -1105,7 +1133,7 @@
      "near": "A 350 m da Praia da Costa Nova",
      "maps_url": "https://www.google.com/maps/search/?api=1&query=40.621664,-8.749330",
      "route_url": "https://www.google.com/maps/dir/?api=1&destination=40.621664,-8.749330&travelmode=driving",
-     "image": "img/b21.jpg"
+     "image": "img/b22.jpg"
     }
    ]
   }
